@@ -1,4 +1,4 @@
-# Hackathon Project
+# Hackathon - Long Weekend Project
 
 ### DEMO
 > App: https://dev.d3hposbzx4tlq9.amplifyapp.com/ 
