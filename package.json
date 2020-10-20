@@ -1,0 +1,46 @@
+{
+  "name": "vue-argon-design-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vue/apollo-composable": "^4.0.0-alpha.12",
+    "@vue/composition-api": "^1.0.0-beta.17",
+    "apollo-boost": "^0.4.9",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link": "^1.2.14",
+    "apollo-link-context": "^1.0.20",
+    "apollo-link-http": "^1.5.17",
+    "aws-amplify": "^3.3.0",
+    "aws-amplify-vue": "^2.1.2",
+    "bootstrap-vue": "^2.0.4",
+    "flatpickr": "^4.5.1",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.11.0",
+    "install": "^0.13.0",
+    "node-fetch": "^2.6.1",
+    "nouislider": "^11.1.0",
+    "npm": "^6.14.8",
+    "register-service-worker": "^1.5.2",
+    "vue": "^2.6.6",
+    "vue-apollo": "^3.0.0-alpha.3",
+    "vue-flatpickr-component": "^8.1.1",
+    "vue-lazyload": "^1.2.6",
+    "vue-router": "^3.0.2",
+    "vue2-transitions": "^0.2.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-plugin-pwa": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.6"
+  }
+}

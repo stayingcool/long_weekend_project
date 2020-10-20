@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  .input{
+    width:100%;
+    margin-bottom:15px;
+    padding:7px 10px;
+    border-radius:2px;
+    color:#ffffff;
+    background-color:#554c57;
+    border:7px solid #5e72e4;
+    opacity:0.81;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-self:auto;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:28px;
+    text-align:center;
+  }
+  .row{
+    display:flex;
+    justify-content:flex-start;
+    align-items:stretch;
+    flex-wrap:nowrap;
+    padding:10px;
+  }
+  .cell{
+    min-height:75px;
+    flex-grow:1;
+    flex-basis:100%;
+  }
+  #i91a{
+    flex-basis:1%;
+  }
+  #iwt1{
+    height:222px;
+  }
+  #ihse{
+    background-image:linear-gradient(#e8e9fd,#e8e9fd);
+    background-repeat:repeat;
+    background-position:left top;
+    background-attachment:scroll;
+    background-size:auto;
+    border:black #180e81;
+    color:#000000;
+  }
+  @media (max-width: 768px){
+    .row{
+      flex-wrap:wrap;
+    }
+  }
+  @media (max-width: 480px){
+    #ihse{
+      font-size:21px;
+    }
+  }
+
+  .slide-fade-enter-active {
+    transition: all .3s ease;
+  }
+  .slide-fade-leave-active {
+    transition: all .8s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+  }
+  .slide-fade-enter, .slide-fade-leave-to
+  /* .slide-fade-leave-active below version 2.1.8 */ {
+    transform: translateX(10px);
+    opacity: 0;
+  }
+  
