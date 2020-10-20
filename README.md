@@ -1,5 +1,16 @@
 # Hackathon Project
 
+### DEMO
+> App: https://dev.d3hposbzx4tlq9.amplifyapp.com/ 
+- Please signup 
+- Create a vacation
+
+### Lean Canvas
+Please look at the [lean canvas](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ptdQ2YKt0FFTjG_DK4EAWXcfnL5uRCW5u9vVStx_BKE/edit?ts%3D5f8e1f01%23slide%3Did.p1&sa=D&source=hangouts&ust=1603263757622000&usg=AFQjCNG0zuMgYLXaQLq7yPh_kDZYo8v2ug)
+
+
+### DEV SETUP
+
 GIT Clone this repo and follow the below steps to setup the project.
 
 > Pre-requisites for installation
