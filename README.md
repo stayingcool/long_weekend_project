@@ -8,6 +8,12 @@
 ### Lean Canvas
 Please look at the [lean canvas](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ptdQ2YKt0FFTjG_DK4EAWXcfnL5uRCW5u9vVStx_BKE/edit?ts%3D5f8e1f01%23slide%3Did.p1&sa=D&source=hangouts&ust=1603263757622000&usg=AFQjCNG0zuMgYLXaQLq7yPh_kDZYo8v2ug)
 
+![alt text](https://github.com/stayingcool/long_weekend_project/blob/main/upload_images/Screen%20Shot%202020-10-20%20at%206.04.11%20pm.png "Lean Canvas")
+
+
+### Architecture
+![alt text](https://github.com/stayingcool/long_weekend_project/blob/main/upload_images/Screen%20Shot%202020-10-20%20at%206.10.04%20pm.png "Architecture")
+
 
 ### DEV SETUP
 
